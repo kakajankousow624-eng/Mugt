@@ -4,7 +4,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1RGJIMWZvWUd2bHNoMEwwazc1SWZB@5.161.146.62:4
 vless://37121057-f612-4b43-99a9-7f2d74d8eaf5@142.251.154.119:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=newserv-100205438823.europe-west1.run.app&fp=chrome&type=ws&allowInsecure=0&sni=www.google.com#Kakajan%202%20%F0%9F%87%B8%F0%9F%87%AA
 vless://37121057-f612-4b43-99a9-7f2d74d8eaf5@142.251.154.119:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=newserv-100205438823.europe-west1.run.app&fp=chrome&type=ws&allowInsecure=0&sni=www.google.com#Kakajan%203%20%F0%9F%87%AC%F0%9F%87%A7
 vless://37121057-f612-4b43-99a9-7f2d74d8eaf5@142.251.154.119:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=newserv-100205438823.europe-west1.run.app&fp=chrome&type=ws&allowInsecure=0&sni=www.google.com#Kakajan%205%20%F0%9F%87%A9%F0%9F%87%AA
-vless://37121057-f612-4b43-99a9-7f2d74d8eaf5@51.144.152.27:718?security=none&encryption=none&headerType=none&type=tcp#Kako%202%20%F0%9F%87%AC%F0%9F%87%A7
-vless://f2bd61f7-9198-4ac1-b9bd-70596c1da059@87.120.108.27:654?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B9%20Kako%203
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5d2Vickk3aEpTdUJNQ3c4RFljT09B@178.236.248.50:443#%F0%9F%87%A8%F0%9F%87%AD%20Kako%204
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5d2Vickk3aEpTdUJNQ3c4RFljT09B@178.236.248.50:443#%F0%9F%87%AB%F0%9F%87%AE%20Kako%205
+vless://f2bd61f7-9198-4ac1-b9bd-70596c1da059@178.236.255.202:654?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Kako%207
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5d2Vickk3aEpTdUJNQ3c4RFljT09B@204.10.192.237:443#%F0%9F%87%BA%F0%9F%87%B8%20Kako%208
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5d2Vickk3aEpTdUJNQ3c4RFljT09B@204.10.192.237:443#%F0%9F%87%AB%F0%9F%87%AE%20Kako%209
