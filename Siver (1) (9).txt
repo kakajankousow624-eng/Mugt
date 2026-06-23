@@ -9,10 +9,10 @@ vless://8d5c7229-6060-4b81-a5da-0a7d9a75468f@64.233.161.120:443?path=%2F&securit
 vless://8d5c7229-6060-4b81-a5da-0a7d9a75468f@142.251.155.176:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=lsudnj79qm-427703597464.europe-north2.run.app&fp=chrome&type=ws&allowInsecure=0&sni=www.google.com#Kakajan%209%20%F0%9F%87%B3%F0%9F%87%B1
 vless://8d5c7229-6060-4b81-a5da-0a7d9a75468f@64.233.161.120:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=lsudnj79qm-427703597464.europe-north2.run.app&fp=chrome&type=ws&allowInsecure=0&sni=www.google.com#Kakajan%2010%20%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNMHFvd2ltY3BOeng4VjBzU0tPVG1L@94.20.58.145:8443#%F0%9F%87%A6%F0%9F%87%BF%20Kakajan%2011
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowbGpnUlhSbEE5a0ZBVmRiWlVqdEln@139.100.234.177:777#%F0%9F%87%B3%F0%9F%87%B1%20Kakajan%2012
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNTg3SktSLWhTNmR6VTNyTmUwZGln@193.32.8.15:1080#%F0%9F%87%AC%F0%9F%87%A7%20Kakajan%2013
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNTg3SktSLWhTNmR6VTNyTmUwZGln@193.32.8.15:1080#%F0%9F%87%A9%F0%9F%87%AA%20Kakajan%2014
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXcXNKdDVNZ1hHMVR0UmNIZFlVcG9R@45.150.33.211:3#%F0%9F%87%A8%F0%9F%87%A6%20Kakajan%2015
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXcXNKdDVNZ1hHMVR0UmNIZFlVcG9R@45.150.33.211:444#%F0%9F%87%AB%F0%9F%87%AE%20Kakajan%2016
-trojan://kdQxNQAc0KP49t6Y5v625g@5.42.122.156:3554?security=none&headerType=none&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%F0%9F%8E%AE
-trojan://kdQxNQAc0KP49t6Y5v625g@5.42.122.156:3554?security=none&headerType=none&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Moscow%20%F0%9F%8E%AE
+vless://02eda2bd-bc3a-4368-9b69-315e15e98e7f@nl.fast-cone.com:443?security=reality&encryption=none&pbk=JZ-JMdenLtpZb6J991KB0-3T92rACohEpDtqt2M--hs&headerType=none&fp=edge&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=nl.fast-cone.com&sid=17#%F0%9F%87%B3%F0%9F%87%B1Kakajan%2012
+vless://02eda2bd-bc3a-4368-9b69-315e15e98e7f@us.fast-cone.com:443?security=reality&encryption=none&pbk=5VWnmh1pF5ngL37PNFHma990EJJQ97DdTh8Kj1SdwgQ&headerType=none&fp=edge&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=us.fast-cone.com&sid=f6#%F0%9F%87%BA%F0%9F%87%B8Kakajan%2013
+vless://fa777f0b-00f4-4ac8-82b9-e89ff7fbed00@193.32.8.14:92?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Kakajan%2014
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXcXNKdDVNZ1hHMVR0UmNIZFlVcG9R@193.32.8.14:888#%F0%9F%87%A8%F0%9F%87%A6%20Kakajan%2015
+vless://fa777f0b-00f4-4ac8-82b9-e89ff7fbed00@193.32.8.14:92?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20Kakajan%2016
+vless://de740bc6-3672-4c26-b247-62f8291f85a4@193.32.8.49:654?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7Kakajan%2017
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMOWZmbHUxeWk5dDREVEpKOXBiRWt3@193.32.8.40:443#%F0%9F%87%B3%F0%9F%87%B4%20Kakajan%2018
