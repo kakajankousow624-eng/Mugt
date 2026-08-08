@@ -1,8 +1,7 @@
-vless://d8b42cd5-a149-4356-9e61-000000000000@91.221.116.30:1016?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B2%F0%9F%87%AA
-vless://e2f9c8a4-c7d5-4f71-a1bb-b7705c7900d3@176.29.115.36:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=sodfijnsdg.vip17.cfd&fp=chrome&type=ws&allowInsecure=0&sni=www.alibaba.com#%F0%9F%87%A8%F0%9F%87%AD
 vless://6d3f20bc-0993-422e-b0cd-be6bcfc645be@185.197.74.4:654?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7
-vless://d0961a50-1306-49a6-b71e-6f0dc183ffb7@151.101.108.252:443?mode=auto&path=%2F1ht&security=tls&alpn=h3&encryption=none&insecure=0&host=Fred443portlarucin.com&fp=chrome&type=xhttp&allowInsecure=0&sni=developer.fastly.com#%F0%9F%87%A6%F0%9F%87%B9
-vless://d0961a50-1306-49a6-b71e-6f0dc183ffb7@151.101.108.252:443?mode=auto&path=%2F1ht&security=tls&alpn=h3&encryption=none&insecure=0&host=Fred443portlarucin.com&fp=chrome&type=xhttp&allowInsecure=0&sni=developer.fastly.com#%F0%9F%87%A7%F0%9F%87%AA
-hysteria2://tronvpns@62.105.194.137:9977?security=tls&insecure=0&sni=nethertron5th.aoctm.online#%F0%9F%87%A8%F0%9F%87%AD
-ss://YWVzLTEyOC1nY206UHY5Vld6aUxJR2J5blI0LTZKcEtVUQ%3D%3D@62.105.194.137:30#%F0%9F%87%A9%F0%9F%87%AA
-trojan://PqAP6CEvP450clhIPDdlCQ@62.105.194.137:6666?security=none&headerType=none&type=tcp#finland
+vless://6d3f20bc-0993-422e-b0cd-be6bcfc645be@193.188.22.120:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=8.turkmentiktok.online&fp=chrome&type=ws&allowInsecure=0&sni=8.turkmentiktok.online#%F0%9F%87%A7%F0%9F%87%AA
+vless://e2f9c8a4-c7d5-4f71-a1bb-b7705c7900d3@209.250.225.68:724?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B5%F0%9F%87%B1
+vless://e2f9c8a4-c7d5-4f71-a1bb-b7705c7900d3@103.141.164.113:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=fsoidgf.vip17.cfd&fp=chrome&type=ws&allowInsecure=0&sni=www.alibaba.com#%F0%9F%87%A9%F0%9F%87%AA
+vless://e2f9c8a4-c7d5-4f71-a1bb-b7705c7900d3@103.141.164.113:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=sodfijnsdg.vip17.cfd&fp=chrome&type=ws&allowInsecure=0&sni=www.alibaba.com#%F0%9F%87%A8%F0%9F%87%AD
+vless://a5a544bf-e4b3-4651-9ff4-de3461910d87@8.47.69.6:443?alpn=h3&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delay%22%3A%220-1%22%2C%22length%22%3A%222%22%2C%22packets%22%3A%22tlshello%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D&fp=chrome&type=xhttp&sni=uk-cf.aba-hum.store&mode=packet-up&path=%2F&security=tls&fragment=2%2C0-1%2Ctlshello&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=uk-cf.aba-hum.store&allowInsecure=0#%F0%9F%87%AC%F0%9F%87%A7
+hysteria2://tronvpns@62.105.194.224:9999?security=tls&insecure=0&sni=uktron5th.aoctm.online#%F0%9F%87%AB%F0%9F%87%AE
